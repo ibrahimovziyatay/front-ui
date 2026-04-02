@@ -3,17 +3,17 @@ import AreaChart from "@/components/ui/chart-area/AreaChart.vue";
 
 const data = [
   {
-    name: "Ziyatay",
+    name: "Yanvar",
     total: 10,
     predicted: Math.floor(Math.random() * 2000) + 500,
   },
   {
-    name: "ziko",
+    name: "Fevral",
     total: Math.floor(Math.random() * 2000) + 500,
     predicted: Math.floor(Math.random() * 2000) + 500,
   },
   {
-    name: "fiko",
+    name: "Mart",
     total: Math.floor(Math.random() * 2000) + 500,
     predicted: Math.floor(Math.random() * 2000) + 500,
   },
